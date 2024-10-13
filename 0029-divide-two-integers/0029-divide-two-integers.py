@@ -15,14 +15,14 @@ class Solution:
         dividend = abs(dividend)
         divisor = abs(divisor)
         
-        while dividend >= (divisor << 1): #dividend >= 2*divisor
-            divisor <<= 1   #divisor *= 2
-            multiple <<= 1  #multiple *= 2
+        while dividend >= (divisor << 1): 
+            divisor <<= 1  
+            multiple <<= 1 
         while multiple > 0:
             if dividend >= divisor:
                 dividend -= divisor
                 quotient += multiple
-            divisor >>= 1   #divisor /= 2
-            multiple >>= 1  #multiple /= 2
+            divisor >>= 1   
+            multiple >>= 1 
         
         return sign * quotient
