@@ -18,5 +18,5 @@ class Solution {
         while(temp!=null){
             temp.val=arr[count++];
             temp=temp.next;
-        }
+}
         return head; }}
