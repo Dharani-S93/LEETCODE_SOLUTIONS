@@ -9,10 +9,7 @@ class Solution {
                     break;
                 }
                 if(j==sb.length()-1){
-                    return t.charAt(i);
-                }
-            }
-        }
+                    return t.charAt(i);  }
+            } }
         return t.charAt(i-1);
-    }
-}
+    }}
