@@ -23,4 +23,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
