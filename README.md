@@ -27,4 +27,12 @@
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0237-delete-node-in-a-linked-list) |
+## Array
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0414-third-maximum-number) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
