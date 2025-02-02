@@ -39,6 +39,7 @@
 ## Array
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0414-third-maximum-number](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0414-third-maximum-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Sorting
@@ -71,4 +72,12 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0232-implement-queue-using-stacks) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
