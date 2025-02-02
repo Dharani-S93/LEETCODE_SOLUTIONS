@@ -20,6 +20,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0415-add-strings](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0415-add-strings) |
+| [0742-to-lower-case](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0742-to-lower-case) |
 ## Sliding Window
 |  |
 | ------- |
