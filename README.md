@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0197-rising-temperature) |
+| [0620-not-boring-movies](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1258-article-views-i) |
 | [1415-students-and-examinations](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1415-students-and-examinations) |
