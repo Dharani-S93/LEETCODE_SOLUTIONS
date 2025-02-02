@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0415-add-strings) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 ## Simulation
 |  |
 | ------- |
