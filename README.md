@@ -19,10 +19,12 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0012-integer-to-roman) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0012-integer-to-roman) |
 | [0415-add-strings](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0415-add-strings) |
 | [0742-to-lower-case](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0742-to-lower-case) |
 | [1894-merge-strings-alternately](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1894-merge-strings-alternately) |
@@ -46,6 +48,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0012-integer-to-roman) |
 | [0415-add-strings](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0415-add-strings) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 ## Simulation
