@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0414-third-maximum-number) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Sorting
 |  |
 | ------- |
