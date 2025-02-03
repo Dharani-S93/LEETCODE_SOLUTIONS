@@ -4,6 +4,7 @@
 ## Database
 |  |
 | ------- |
+| [0177-nth-highest-salary](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0177-nth-highest-salary) |
 | [0197-rising-temperature](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0197-rising-temperature) |
 | [0620-not-boring-movies](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1153-product-sales-analysis-i) |
