@@ -35,6 +35,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0061-rotate-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0237-delete-node-in-a-linked-list) |
 ## Array
 |  |
@@ -60,6 +61,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0061-rotate-list) |
 | [1894-merge-strings-alternately](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1894-merge-strings-alternately) |
 ## Stack
 |  |
