@@ -23,6 +23,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0012-integer-to-roman) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## String
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | [0742-to-lower-case](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0742-to-lower-case) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1894-merge-strings-alternately) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Sliding Window
 |  |
@@ -108,4 +110,8 @@
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0371-sum-of-two-integers) |
+## Counting
+|  |
+| ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
