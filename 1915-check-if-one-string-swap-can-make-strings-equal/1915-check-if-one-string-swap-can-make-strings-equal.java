@@ -1,18 +1,28 @@
 class Solution {
     public boolean areAlmostEqual(String s1, String s2) {
-        if(s1.length() != s2.length()) return false;
-        if(s1.equals(s2)) return true;
-        ArrayList<Integer> idxs = new ArrayList<>();
-        int size = s1.length();
-        for(int i=0; i<size; i++){
-            if(s1.charAt(i) != s2.charAt(i)) idxs.add(i);
+        char miss1 = ' ', miss2 = ' ';
+        int c = 0;
+        boolean flag = true;
+        int n = s1.length();
+        for(int i = 0;i<n;i++){
+            if(s1.charAt(i) != s2.charAt(i)){
+                if(c==0){
+                    miss1 = s1.charAt(i);
+                    miss2 = s2.charAt(i);
+                    flag = false;
+                    c++;
+                }
+                else if(c==1){
+                    if(s2.charAt(i) == miss1 && s1.charAt(i) == miss2){
+                        flag = true;
+                    }
+                    c++;
+                }
+                else{
+                    return false;
+                }
+            }
         }
-        if(idxs.size() != 2) return false;
-        int idx1 = idxs.get(0);
-        int idx2 = idxs.get(1);
-        if(s1.charAt(idx1) == s2.charAt(idx2)  && s1.charAt(idx2) == s2.charAt(idx1)){
-            return true;
-        }
-        return false;
+        return flag;
     }
 }
