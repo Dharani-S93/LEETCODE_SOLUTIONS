@@ -1,14 +1,11 @@
 class Solution {
     public int[] getConcatenation(int[] nums) {
-        int[]a =  new int[nums.length+nums.length];
-        for(int i = 0,n=0; i < a.length;i++){
-            if(i<nums.length){
-                a[i]=nums[i];
-            }
-            else{
-                a[i]=nums[n++];
-            }
+        int len = nums.length;
+        int[] arr = new int[2 * len];
+        for (int i = 0; i < len; i++) {
+            arr[i] = nums[i];
+            arr[i + len] = nums[i];
         }
-        return a;
+        return arr;
     }
 }
