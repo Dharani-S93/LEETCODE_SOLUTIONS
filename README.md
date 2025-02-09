@@ -54,6 +54,7 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0414-third-maximum-number](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0414-third-maximum-number) |
+| [0792-binary-search](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0792-binary-search) |
 | [1364-tuple-with-same-product](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1364-tuple-with-same-product) |
 | [1848-sum-of-unique-elements](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1848-sum-of-unique-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -139,4 +140,8 @@
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2434-design-a-number-container-system) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
