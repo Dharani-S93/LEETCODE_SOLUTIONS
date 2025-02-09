@@ -24,6 +24,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0012-integer-to-roman) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [1364-tuple-with-same-product](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1364-tuple-with-same-product) |
 | [1848-sum-of-unique-elements](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -35,6 +36,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0012-integer-to-roman) |
+| [0387-first-unique-character-in-a-string](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0415-add-strings) |
 | [0742-to-lower-case](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0742-to-lower-case) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -111,6 +113,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -140,6 +143,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [1364-tuple-with-same-product](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1364-tuple-with-same-product) |
 | [1848-sum-of-unique-elements](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
