@@ -25,6 +25,7 @@
 | [0012-integer-to-roman](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0012-integer-to-roman) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [1364-tuple-with-same-product](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1364-tuple-with-same-product) |
 | [1848-sum-of-unique-elements](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -62,6 +63,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0414-third-maximum-number) |
+| [0496-next-greater-element-i](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0792-binary-search](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0792-binary-search) |
 | [1364-tuple-with-same-product](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1364-tuple-with-same-product) |
 | [1848-sum-of-unique-elements](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1848-sum-of-unique-elements) |
@@ -103,6 +105,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Design
 |  |
@@ -171,4 +174,5 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
