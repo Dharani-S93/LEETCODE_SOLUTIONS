@@ -66,6 +66,7 @@
 | [0414-third-maximum-number](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0792-binary-search](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0792-binary-search) |
+| [0898-transpose-matrix](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0898-transpose-matrix) |
 | [1364-tuple-with-same-product](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1364-tuple-with-same-product) |
 | [1848-sum-of-unique-elements](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1848-sum-of-unique-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0415-add-strings) |
+| [0898-transpose-matrix](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0898-transpose-matrix) |
 | [2058-concatenation-of-array](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2058-concatenation-of-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/3447-clear-digits) |
@@ -180,4 +182,8 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0496-next-greater-element-i) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
