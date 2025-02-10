@@ -67,6 +67,7 @@
 | [0496-next-greater-element-i](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0792-binary-search](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0898-transpose-matrix) |
+| [1168-duplicate-zeros](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1168-duplicate-zeros) |
 | [1364-tuple-with-same-product](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1364-tuple-with-same-product) |
 | [1848-sum-of-unique-elements](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1848-sum-of-unique-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -104,6 +105,7 @@
 | [0061-rotate-list](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0061-rotate-list) |
 | [0287-find-the-duplicate-number](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1168-duplicate-zeros](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1168-duplicate-zeros) |
 | [1894-merge-strings-alternately](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1894-merge-strings-alternately) |
 ## Stack
 |  |
