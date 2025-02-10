@@ -86,6 +86,7 @@
 | [0371-sum-of-two-integers](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0492-construct-the-rectangle) |
+| [0507-perfect-number](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0507-perfect-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2448-count-number-of-bad-pairs](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2448-count-number-of-bad-pairs) |
 ## Simulation
