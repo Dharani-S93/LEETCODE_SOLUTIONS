@@ -44,6 +44,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [3447-clear-digits](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/3447-clear-digits) |
 ## Sliding Window
@@ -96,6 +97,7 @@
 | ------- |
 | [0415-add-strings](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0415-add-strings) |
 | [0898-transpose-matrix](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0898-transpose-matrix) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2058-concatenation-of-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/3447-clear-digits) |
@@ -115,6 +117,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/3447-clear-digits) |
 ## Design
 |  |
