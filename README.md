@@ -31,6 +31,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## String
 |  |
@@ -76,6 +77,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2058-concatenation-of-array](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2058-concatenation-of-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Sorting
@@ -83,6 +85,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0414-third-maximum-number) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Math
 |  |
 | ------- |
@@ -172,6 +175,7 @@
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Ordered Set
 |  |
 | ------- |
