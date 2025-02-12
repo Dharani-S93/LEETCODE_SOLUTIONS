@@ -118,6 +118,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0316-remove-duplicate-letters) |
@@ -151,16 +152,19 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Bit Manipulation
 |  |
