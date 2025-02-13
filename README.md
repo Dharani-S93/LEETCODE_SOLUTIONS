@@ -155,6 +155,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0222-count-complete-tree-nodes) |
@@ -164,6 +165,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0404-sum-of-left-leaves) |
@@ -172,6 +174,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0222-count-complete-tree-nodes) |
@@ -222,5 +225,6 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0101-symmetric-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
