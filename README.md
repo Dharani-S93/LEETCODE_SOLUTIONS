@@ -78,6 +78,7 @@
 | [2058-concatenation-of-array](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2058-concatenation-of-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Sorting
@@ -103,6 +104,7 @@
 | [0898-transpose-matrix](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0898-transpose-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2058-concatenation-of-array) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/3447-clear-digits) |
 ## Two Pointers
@@ -191,6 +193,7 @@
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Ordered Set
 |  |
 | ------- |
