@@ -157,6 +157,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0404-sum-of-left-leaves) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Depth-First Search
@@ -173,11 +174,13 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0404-sum-of-left-leaves) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0371-sum-of-two-integers) |
 ## Counting
@@ -203,6 +206,7 @@
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0792-binary-search) |
