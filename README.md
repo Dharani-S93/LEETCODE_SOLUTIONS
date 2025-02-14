@@ -72,6 +72,7 @@
 | [0898-transpose-matrix](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0898-transpose-matrix) |
 | [1168-duplicate-zeros](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1168-duplicate-zeros) |
 | [1364-tuple-with-same-product](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1364-tuple-with-same-product) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1477-product-of-the-last-k-numbers) |
 | [1848-sum-of-unique-elements](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1848-sum-of-unique-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -95,6 +96,7 @@
 | [0415-add-strings](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0507-perfect-number) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1477-product-of-the-last-k-numbers) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2448-count-number-of-bad-pairs](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2448-count-number-of-bad-pairs) |
 ## Simulation
@@ -134,6 +136,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0232-implement-queue-using-stacks) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2434-design-a-number-container-system) |
 ## Queue
 |  |
@@ -230,4 +233,12 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0101-symmetric-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0404-sum-of-left-leaves) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1477-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
