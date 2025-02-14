@@ -23,6 +23,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0012-integer-to-roman) |
+| [0169-majority-element](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0496-next-greater-element-i) |
@@ -64,6 +65,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0414-third-maximum-number) |
@@ -85,6 +87,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0414-third-maximum-number) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -195,6 +198,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [1364-tuple-with-same-product](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1364-tuple-with-same-product) |
 | [1848-sum-of-unique-elements](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1848-sum-of-unique-elements) |
@@ -241,4 +245,8 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1477-product-of-the-last-k-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
