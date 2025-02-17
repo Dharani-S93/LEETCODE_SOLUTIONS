@@ -1,6 +1,5 @@
 class Solution {
     private int count = 0;
-
     public int numTilePossibilities(String tiles) {
         int[] freq = new int[26]; 
         for (char ch : tiles.toCharArray()) {
@@ -15,7 +14,6 @@ class Solution {
                 count++;
                 freq[i]--; 
                 backtrack(freq); 
-                
                 freq[i]++; 
             }
         }
