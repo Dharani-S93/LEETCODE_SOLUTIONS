@@ -31,6 +31,7 @@
 | [1364-tuple-with-same-product](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1364-tuple-with-same-product) |
 | [1848-sum-of-unique-elements](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2107-find-unique-binary-string](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2107-find-unique-binary-string) |
 | [2434-design-a-number-container-system](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -51,6 +52,7 @@
 | [1894-merge-strings-alternately](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2107-find-unique-binary-string](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2107-find-unique-binary-string) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/3447-clear-digits) |
@@ -84,6 +86,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2058-concatenation-of-array](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2058-concatenation-of-array) |
+| [2107-find-unique-binary-string](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2107-find-unique-binary-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -263,5 +266,6 @@
 | [1160-letter-tile-possibilities](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2107-find-unique-binary-string](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2456-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->
