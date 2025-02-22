@@ -46,6 +46,7 @@
 | [0415-add-strings](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0541-reverse-string-ii) |
 | [0742-to-lower-case](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0742-to-lower-case) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -177,6 +178,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0404-sum-of-left-leaves) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Depth-First Search
 |  |
@@ -187,6 +189,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0404-sum-of-left-leaves) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Tree
 |  |
@@ -198,6 +201,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0404-sum-of-left-leaves) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Bit Manipulation
 |  |
