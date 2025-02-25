@@ -84,6 +84,7 @@
 | [1168-duplicate-zeros](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1168-duplicate-zeros) |
 | [1364-tuple-with-same-product](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1848-sum-of-unique-elements](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1848-sum-of-unique-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -113,6 +114,7 @@
 | [0507-perfect-number](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0507-perfect-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1477-product-of-the-last-k-numbers) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2448-count-number-of-bad-pairs) |
 ## Simulation
 |  |
@@ -164,6 +166,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -268,6 +271,7 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
