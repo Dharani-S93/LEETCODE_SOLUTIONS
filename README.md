@@ -195,6 +195,7 @@
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2384-root-equals-sum-of-children](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2384-root-equals-sum-of-children) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -223,6 +224,7 @@
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2384-root-equals-sum-of-children](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2384-root-equals-sum-of-children) |
 ## Bit Manipulation
 |  |
 | ------- |
