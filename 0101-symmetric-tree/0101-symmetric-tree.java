@@ -13,12 +13,16 @@
  *     }
  * }
  */
-class Solution {
+        
+    class Solution {
     public boolean isSymmetric(TreeNode root) {
-              return root == null || isMirror(root.left, root.right);
+        if (root == null) return true;
+        return isSymmetric(root.left, root.right); 
     }
-    private static boolean isMirror(TreeNode t1, TreeNode t2) {
-        if (t1 == null || t2 == null) return t1 == t2;
-        return (t1.val == t2.val) && isMirror(t1.left, t2.right) && isMirror(t1.right, t2.left);
+    public boolean isSymmetric(TreeNode p, TreeNode q) {
+        if (p == null && q == null) return true;
+        if (p == null || q == null) return false;
+        if (p.val != q.val) return false;
+        return isSymmetric(p.left, q.right) && isSymmetric(p.right, q.left);
     }
 }
