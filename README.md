@@ -189,6 +189,7 @@
 | [0101-symmetric-tree](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0222-count-complete-tree-nodes) |
@@ -208,6 +209,7 @@
 | [0101-symmetric-tree](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0404-sum-of-left-leaves) |
@@ -224,6 +226,7 @@
 | [0101-symmetric-tree](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0222-count-complete-tree-nodes) |
@@ -284,6 +287,7 @@
 | [0100-same-tree](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0404-sum-of-left-leaves) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Data Stream
