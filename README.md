@@ -85,6 +85,7 @@
 | [0898-transpose-matrix](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0898-transpose-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1036-rotting-oranges](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1036-rotting-oranges) |
 | [1168-duplicate-zeros](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1168-duplicate-zeros) |
 | [1364-tuple-with-same-product](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1477-product-of-the-last-k-numbers) |
@@ -284,6 +285,7 @@
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0898-transpose-matrix) |
+| [1036-rotting-oranges](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1036-rotting-oranges) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -292,6 +294,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0404-sum-of-left-leaves) |
+| [1036-rotting-oranges](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1036-rotting-oranges) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Data Stream
 |  |
