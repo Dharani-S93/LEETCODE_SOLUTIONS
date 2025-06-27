@@ -114,6 +114,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0012-integer-to-roman) |
+| [0070-climbing-stairs](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0371-sum-of-two-integers](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0492-construct-the-rectangle) |
@@ -171,6 +172,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -330,4 +332,8 @@
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0744-network-delay-time) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
