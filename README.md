@@ -217,6 +217,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0404-sum-of-left-leaves) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0744-network-delay-time](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0744-network-delay-time) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -260,6 +261,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0744-network-delay-time) |
 | [2434-design-a-number-container-system](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -294,6 +296,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0404-sum-of-left-leaves) |
+| [0744-network-delay-time](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0744-network-delay-time) |
 | [1036-rotting-oranges](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1036-rotting-oranges) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Data Stream
@@ -321,5 +324,10 @@
 ## Graph
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0744-network-delay-time) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/2564-most-profitable-path-in-a-tree) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
