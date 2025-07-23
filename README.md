@@ -88,6 +88,7 @@
 | [1036-rotting-oranges](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1036-rotting-oranges) |
 | [1168-duplicate-zeros](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1168-duplicate-zeros) |
 | [1364-tuple-with-same-product](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1364-tuple-with-same-product) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1435-xor-queries-of-a-subarray) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -250,6 +251,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0371-sum-of-two-integers) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1435-xor-queries-of-a-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -308,6 +310,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1435-xor-queries-of-a-subarray) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Divide and Conquer
