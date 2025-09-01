@@ -77,6 +77,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0414-third-maximum-number) |
@@ -116,6 +117,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0492-construct-the-rectangle) |
@@ -138,6 +140,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0061-rotate-list) |
+| [0189-rotate-array](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/Dharani-S93/LEETCODE_SOLUTIONS/tree/master/0541-reverse-string-ii) |
